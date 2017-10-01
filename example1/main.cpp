@@ -67,7 +67,7 @@ int main(void){
     glfwInit();
 
     // create our window
-    Display display = Display(WIDTH, HEIGHT, "SPH simulation, Carlos Planelles",
+    Display display = Display(WIDTH, HEIGHT, "Vicsek 3D simulation, Carlos Planelles",
                               key_callback, mouse_callback, scroll_callback, button_mouse_callback);
 
     // Set this to true so GLEW knows to use a modern approach to retrieving function pointers and extensions
