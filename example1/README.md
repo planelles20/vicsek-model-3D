@@ -29,5 +29,5 @@ One motivation of the study of active matter by physicist is the rich phenomenol
 
 
 <p align="center">
-  <img src=" " alt="Vicsek model 3D gif"/>
+  <img src="https://github.com/planelles20/particle-system-simulations/blob/master/example1/img/vicsek3D.gif?raw=true" alt="Vicsek model 3D gif"/>
 </p>
