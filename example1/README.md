@@ -14,6 +14,11 @@ One motivation of the study of active matter by physicist is the rich phenomenol
     <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%20r_i_x%28t&plus;%5CDelta%20t%29%5C%5C%20r_i_y%28t&plus;%5CDelta%20t%29%5C%5C%20r_i_z%28t&plus;%5CDelta%20t%29%20%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bpmatrix%7D%20r_i_x%28t%29%5C%5C%20r_i_y%28t%29%5C%5C%20r_i_z%28t%29%20%5Cend%7Bpmatrix%7D%20&plus;%20%5Cbegin%7Bpmatrix%7D%20v_i_x%28t&plus;%5CDelta%20t%29%5C%5C%20v_i_y%28t&plus;%5CDelta%20t%29%5C%5C%20v_i_z%28t&plus;%5CDelta%20t%29%20%5Cend%7Bpmatrix%7D%20%5Ccdot%20%5CDelta%20t" alt="position vicsek equation"/>
 </p>
 
+## Algorithm
+<p align="center">
+    <img src="https://github.com/planelles20/particle-system-simulations/blob/master/example1/img/algorithm.png?raw=true" alt="algorithm diagram"/>
+</p>
+
 ## Results of simulation
     Simulation data
         - Number of particles: 32768
