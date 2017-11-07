@@ -20,9 +20,9 @@
 #include <GLFW/glfw3.h>
 
 // our class includes
-#include "../common/display.h"
-#include "../common/shaderGeometry.h"
-#include "../common/shader.h"
+#include "./common/display.h"
+#include "./common/shaderGeometry.h"
+#include "./common/shader.h"
 #include "systemSPH.h"
 
 //particles = THREADS*BLOCKS

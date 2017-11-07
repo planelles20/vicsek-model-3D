@@ -5,7 +5,7 @@ COMPILER_FLAGS = -std=c++11
 NC = nvcc
 
 all:
-	$(NC) $(COMPILER_FLAGS) -o main.exe main.cpp ../common/display.cpp ../common/shaderGeometry.cpp ../common/shader.cpp systemSPH.cu $(LINKER_FLAGS)
+	$(NC) $(COMPILER_FLAGS) -o main.exe main.cpp ./common/display.cpp ./common/shaderGeometry.cpp ./common/shader.cpp systemSPH.cu $(LINKER_FLAGS)
 
 clean:
 	rm *.exe
