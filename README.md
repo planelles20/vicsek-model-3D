@@ -16,7 +16,7 @@ One motivation of the study of active matter by physicist is the rich phenomenol
 
 ## Algorithm
 <p align="center">
-    <img src="https://github.com/planelles20/particle-system-simulations/blob/master/example1/img/algorithm.png?raw=true" alt="algorithm diagram"/>
+    <img src="https://github.com/planelles20/vicsek-model-3D/blob/master/img/algorithm.png?raw=true" alt="algorithm diagram"/>
 </p>
 
 ## Results of simulation
@@ -34,5 +34,5 @@ One motivation of the study of active matter by physicist is the rich phenomenol
 
 
 <p align="center">
-  <img src="https://github.com/planelles20/particle-system-simulations/blob/master/example1/img/vicsek3D.gif?raw=true" alt="Vicsek model 3D gif"/>
+  <img src="https://github.com/planelles20/vicsek-model-3D/blob/master/img/vicsek3D.gif?raw=true" alt="Vicsek model 3D gif"/>
 </p>
